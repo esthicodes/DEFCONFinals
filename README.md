@@ -1,2 +1,4 @@
 # DEFCONFinals
-CTF is for losers, assholes, and those who think they are fucking hackers, who can ignore all abnormal human beings in the world. 
+
+
+CTF ist für Verlierer, Arschlöcher und diejenigen, die sich für verdammte Hacker halten, die alle abnormalen Menschen auf der Welt ignorieren können. 
