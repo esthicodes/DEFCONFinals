@@ -1,8 +1,6 @@
-# DEFCONFinals
+# DEFCON Qualifications
 
-
-CTF ist für Verlierer, Arschlöcher und diejenigen, die sich für verdammte Hacker halten, die alle abnormalen Menschen auf der Welt ignorieren können. 
-
+ 
 # Informationen: 
 
 Zu Beginn des Spiels sind mehrere Herausforderungen freigeschaltet, darunter eine "brennende" Herausforderung.
