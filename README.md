@@ -1,6 +1,10 @@
 # DEFCON Qualifications
 
- 
+# What is a CTF competition?
+
+Capture The Flag is a competition where you can legally hack and exploit intentionally vulnerable programs or websites. For every hack, there is a flag that secures you points and a place on the scoreboard. We have invited information security experts that have prepared the challenges for you, as well as introductory presentations on the topics. If you have no experience in hacking, you will learn the necessary tools, tips and tricks there. You will solve tasks in the categories "web", "forensics", "OSint", "reverse engineering" and "pwn/binary exploitation". 
+
+
 # Informationen: 
 
 Zu Beginn des Spiels sind mehrere Herausforderungen freigeschaltet, darunter eine "brennende" Herausforderung.
